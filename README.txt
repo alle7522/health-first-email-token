@@ -13,7 +13,7 @@
 =  1. Environment Setup and Testing  =
 ======================================
 
-== Setup==
+== Setup ==
 
 Clone the project from the Git repo at:
 https://github.com/alle7522/health-first-email-token.git
