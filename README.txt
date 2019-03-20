@@ -19,7 +19,7 @@ Clone the project from the Git repo at:
 https://github.com/alle7522/health-first-email-token.git
 
 
-Install Spring Tools Suite 4 (Eclipse) found at:
+Download Spring Tools Suite 4 (Eclipse Standalone) found at:
 https://spring.io/tools
 
 
